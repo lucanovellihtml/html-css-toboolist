@@ -87,11 +87,12 @@ li {
 .box-icon {
     border: 1px solid black;
     border-radius: 50%;
-    height: 25px;
-    width: 25px;
+    height: 20px;
+    width: 20px;
     text-align: center;
-    line-height: 25px;
+    line-height: 20px;
     display: inline-block;
+    font-size: 15px;
 }
 
 .span-icon-list-task {
