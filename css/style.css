@@ -52,4 +52,59 @@ main {
     border-color: gray;
 }
 
+
+/* BOX-LIST MAIN */
+#box-list {
+    margin-top: 5px;
+    background-color: white;
+    border-bottom-left-radius: 5px;
+    border-bottom-right-radius: 5px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 50px;
+    color: black;
+    font-family: Arial, sans-serif;
+}
+
+.title-list-task {
+    font-size: 20px;
+}
+
+.title-icon-list-task {
+    font-size: 10px;
+    text-decoration: none;
+}
+
+.list {
+    margin-top: 20px;
+    list-style: none;
+}
+
+.box-icon {
+    border: 1px solid black;
+    border-radius: 50%;
+    height: 25px;
+    width: 25px;
+    text-align: center;
+    line-height: 25px;
+    display: inline-block;
+}
+
+.span-icon-list-task {
+    font-size: 10px;
+    background-color: black;
+    color: white;
+    padding: 10px;
+    border-radius: 10px;
+}
+
+.editorial {
+    background-color: rgb(37, 146, 189);
+}
+
+.true {
+    color: green;
+    border-color: green;
+}
+
 /* ------------ */
