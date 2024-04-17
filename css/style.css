@@ -14,3 +14,42 @@ header img {
 }
 
 /* ------------ */
+
+
+/* ------ MAIN------ */
+main {
+    background-color: aliceblue;
+    padding-top: 50px;
+    padding-left: 300px;
+    padding-bottom: 300px;
+    padding-right: 300px;
+}
+
+/* HEADER MAIN */
+#box-main header {
+    background-color: white;
+    border-top-left-radius: 5px;
+    border-top-right-radius: 5px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 50px;
+}
+
+.button {
+    padding: 10px;
+    font-size: 15px;
+    border-radius: 5px;
+    border: 1px solid black;
+}
+
+#button-task {
+    background-color: rgb(94, 193, 233);
+    border-color: skyblue;
+}
+
+#button-section {
+    background-color: white;
+    border-color: gray;
+}
+
+/* ------------ */
