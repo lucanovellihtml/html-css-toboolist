@@ -102,9 +102,26 @@ main {
     background-color: rgb(37, 146, 189);
 }
 
+.q1-goals {
+    background-color: purple;
+}
+
+.recruiting {
+    background-color: green;
+}
+
+.mobile {
+    background-color: orange;
+}
+
 .true {
     color: green;
     border-color: green;
+}
+
+.false {
+    color: red;
+    border-color: red;
 }
 
 /* ------------ */
