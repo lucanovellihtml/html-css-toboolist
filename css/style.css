@@ -114,6 +114,14 @@ main {
     background-color: orange;
 }
 
+.website {
+    background-color: rgb(150, 53, 53);
+}
+
+.sales {
+    background-color: greenyellow;
+}
+
 .true {
     color: green;
     border-color: green;
