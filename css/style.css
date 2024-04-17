@@ -95,6 +95,11 @@ li {
     font-size: 15px;
 }
 
+.span-title-list-task {
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
 .span-icon-list-task {
     font-size: 10px;
     background-color: black;
